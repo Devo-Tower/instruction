@@ -4,6 +4,7 @@ Here you can find instructions regarding different programming concepts.
 
 ## Links
 
+* [Variables](./instruction/basic/variable.md)
 * [Arrays](./instruction/basic/array.md)
 * [Loops](./instruction/basic/loop.md)
 * [JSON Objects](./instruction/basic/json.md)
